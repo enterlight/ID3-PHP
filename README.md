@@ -5,13 +5,14 @@ This simple program implements the ID3 algorithm as prescribed by the Chapter 3 
 
 The program reads the data.csv file to generate the decision tree.  Then, it applies the decision process to input_data.csv to predict an outcome.
 
-# Files needed 
-data.csv        : Training data.
+### Files needed
+dec_tree3.php   : Main program.   
+data.csv        : Training data.   
 input_data.csv  : Predictors
 
-# Use
+### Use
 php dec_tree3.php
 
-# NOTE
+### NOTE
 This is by no mean a scholar project.  Just playing around.
 
